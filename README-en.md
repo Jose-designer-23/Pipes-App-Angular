@@ -60,10 +60,11 @@ The application includes a **dynamic table** displaying a list of superheroes, a
 
 ### Frontend:
 
-* [**Angular**](https://angular.io/) - Robust framework for building the user interface.
-* [**RxJS**](https://rxjs.dev/) - For managing asynchronous data streams and reactive data manipulation.
-
----
+* **[Angular](https://angular.io/) (v19.2.0, with Signals):** The primary framework for building the user interface, leveraging its powerful built-in and custom pipes, along with reactive state management using Signals.
+* **[TypeScript](https://www.typescriptlang.org/) (~5.7.2):** The base programming language that adds static typing.
+* **[Tailwind CSS](https://tailwindcss.com/) (v3.4.17):** A utility-first CSS framework for fast and responsive design.
+* **[DaisyUI](https://daisyui.com/) (v4.12.24):** A UI component library for Tailwind CSS.
+* **[RxJS](https://rxjs.dev/) (~7.8.0):** For managing asynchronous data streams and reactive programming within Angular.
 
 ## 🚀 How to Run the Project
 
