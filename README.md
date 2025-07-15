@@ -60,7 +60,7 @@ La aplicación incluye una **tabla dinámica** que muestra una lista de superhé
 
 ### Frontend:
 
-* **[Angular](https://angular.io/) (v19.2.0, con Signals):** El framework principal para construir la interfaz de usuario, aprovechando sus potentes pipes integrados y personalizados, junto con la gestión de estado reactivo mediante Signals.
+* **[Angular](https://angular.io/) (v19.2.14, con Signals):** El framework principal para construir la interfaz de usuario, aprovechando sus potentes pipes integrados y personalizados, junto con la gestión de estado reactivo mediante Signals.
 * **[TypeScript](https://www.typescriptlang.org/) (~5.7.2):** El lenguaje de programación base que añade tipado estático.
 * **[Tailwind CSS](https://tailwindcss.com/) (v3.4.17):** Un framework CSS de utilidad para un diseño rápido y responsivo.
 * **[DaisyUI](https://daisyui.com/) (v4.12.24):** Una biblioteca de componentes UI para Tailwind CSS.
